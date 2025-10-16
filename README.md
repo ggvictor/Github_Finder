@@ -1,5 +1,5 @@
 # 🔍 GitHub Finder
-Um aplicativo desenvolvido com **React**, **TypeScript** e a **API do GitHub**, que permite pesquisar perfis de usuários do GitHub e visualizar suas principais informações públicas.
+Um site desenvolvido com **React**, **TypeScript** e a **API do GitHub**, que permite pesquisar perfis de usuários do GitHub e visualizar suas principais informações públicas.
 
 ## 🚀 Objetivo
 
